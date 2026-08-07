@@ -1,0 +1,18 @@
+{
+  "name": "erc20-locker",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.6",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@openzeppelin/contracts": "5.0.2",
+    "@openzeppelin/contracts-upgradeable": "5.0.2",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.11.27",
+    "chai": "^4.2.0",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
