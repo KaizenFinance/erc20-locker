@@ -19,9 +19,6 @@ Features:
 
 The contract was reviewed and audited.
 
-Audit report:
-./audit/Erc20Locker-Audit.pdf
-
 ## Tech Stack
 
 - Solidity 0.8.24
